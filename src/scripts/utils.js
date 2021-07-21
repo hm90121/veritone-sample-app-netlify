@@ -21,7 +21,7 @@
 // GLOBALS
 const API_ENDPOINT = "https://api.veritone.com/v3/graphql";
 const AUTH_BASE  = "https://api.veritone.com/v1/admin/oauth/authorize?scope=all&response_type=token&client_id=";
-const CLIENT_ID = "c06758d8-709a-4339-a83a-5488bfdf29f";
+const CLIENT_ID = "c06758d8-709a-4339-a83a-5488bfdf29fe";
 const HOME_URL = "https://sample-app-veritone.netlify.app/";
 const TEXT_VALIDATION_ERROR_MSG = "That doesn't look right. Try again.";
 const DAYS_TO_STORE_TOKEN = 1;
