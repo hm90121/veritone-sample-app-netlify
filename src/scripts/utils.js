@@ -317,7 +317,7 @@ const MAX_POLL_ATTEMPTS = 50;
 const POLL_INTERVAL = 15000;
 
 // We use the engine named "task-google-video-intelligence-chunk-label":
-let DEFAULT_ENGINE = "60755416-766f-4014-bad9-f0ac8d900b86";
+let DEFAULT_ENGINE = "8b4eb937-9621-4472-b39c-52a21d54ff51";
 
 function logToScreen(msg, selector) {
   document.querySelector(selector).innerHTML = document.querySelector(selector).innerHTML + "\n" + msg;
