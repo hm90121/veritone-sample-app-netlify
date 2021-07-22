@@ -508,6 +508,7 @@ function createTheJobQuery(tdoID, engineID) {
     let query = `mutation createJob{
   createJob(input: {
     targetId: "TDO_ID",
+    clusterId: "prd5-21xbyq0x-4h0s-o685-snas-oovhdai552v9",
     isReprocessJob: true,
     tasks: [
     {
